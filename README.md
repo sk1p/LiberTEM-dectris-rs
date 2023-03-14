@@ -1,3 +1,7 @@
+# Archived
+
+This repo is now archived, as it is now a part of [the LiberTEM-rs monorepo](https://github.com/LiberTEM/LiberTEM-rs/)
+
 # LiberTEM-dectris-rs
 
 [![LiberTEM-dectris-rs on GitHub](https://img.shields.io/badge/GitHub-MIT-informational)](https://github.com/LiberTEM/LiberTEM-dectris-rs)
